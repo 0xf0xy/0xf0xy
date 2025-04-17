@@ -7,16 +7,16 @@
 <br>
 
 ## > About Me
-> Well, you found this profile. <br>
-> That already tells me something about you. <br>
+> Well, you found this profile.  
+> That already tells me something about you.  
 >
-> So now, let me tell you something about me: <br>
-> I'm not chasing fame or glory — <br>
-> I'm here because I like this world. <br>
+> So now, let me tell you something about me:  
+> I'm not chasing fame or glory —  
+> I'm here because I like this world.  
 > 
-> At first, hacking was just a way to disconnect from reality, <br>
-> a challenge to silence the chaos within. <br>
-> But now, it’s a passion that keeps me going.
+> At first, hacking was just a way to disconnect from reality,  
+> a challenge to silence the chaos within.  
+> But now, it’s a passion that keeps me going.  
 
 <br>
 
