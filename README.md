@@ -22,7 +22,7 @@
 
 ## > Projects
 - 🧩 [Write-ups](https://github.com/my-username/write-ups)
-   > ![markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown) <br>
+   > ![markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)  
    > *A growing archive of CTF walkthroughs for training, reference, and reflection.*
 
 - More coming soon...
