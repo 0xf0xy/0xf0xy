@@ -10,8 +10,6 @@
 
 <br>
 
-<p align="center"><em>Fox in the shadows. Curious mind. Silent steps.</em></p>
-
 ---
 
 ## > About Me
@@ -34,6 +32,7 @@
 
 ## > Projects
 - 🦊 [LUNA](https://github.com/0xf0xy/LUNA)  
+  > ![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)  
   > *A smart wordlist generator for brute-force attacks against wireless networks, PINs and users.*
 
 - 🧠 [Write-ups](https://github.com/0xf0xy/write-ups)  
