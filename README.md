@@ -31,18 +31,18 @@
 
 ## > Projects
 - 🦊 [LUNA](https://github.com/0xf0xy/LUNA)  
-  *A smart wordlist generator for brute-force attacks against wireless networks, PINs and users.*
+  > *A smart wordlist generator for brute-force attacks against wireless networks, PINs and users.*
 
 - 🧠 [Write-ups](https://github.com/0xf0xy/write-ups)  
-  ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)  
-  *CTF walkthroughs and notes — because learning is remembering where you failed.*
+  > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)    
+  > *CTF walkthroughs and notes — because learning is remembering where you failed.*
 
 - 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
-  *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.*
+  > *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.*
 
-- 🌹 [Poems](https://github.com/0xf0xy/Poems)
-  ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)
-  *Poetry from my mind — echoes from the quiet moments.*
+- 🌹 [Poems](https://github.com/0xf0xy/Poems)  
+  > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)  
+  > *Poetry from my mind — echoes from the quiet moments.*
 
 - More coming soon...
 
