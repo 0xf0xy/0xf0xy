@@ -1,10 +1,15 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Offensive-Security-E4080A?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-User-black?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Dev-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offensive%20Security-E4080A?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20User-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python%20Dev-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <br>
+
+<h1 align="center"><code>0xf0xy</code></h1>
+<p align="center"><em>Fox in the shadows. Curious mind. Silent steps.</em></p>
+
+---
 
 ## > About Me
 > Well, you found this profile.  
@@ -17,22 +22,31 @@
 > At first, hacking was just a way to disconnect from reality,  
 > a challenge to silence the chaos within.  
 > But now, it’s a passion that keeps me going.  
+>
+> I learn by breaking.  
+> I grow by solving.  
+> I move like a fox — always quiet, never lost.
 
 <br>
 
 ## > Projects
-- 🌹 [Poems](https://github.com/0xf0xy/Poems)
-   > *Just some poems that I wrote to pass the time. A hobbie besides hacking.*
-- 🧩 [Write-ups](https://github.com/0xf0xy/write-ups)
-   > ![markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)  
-   > *A growing archive of CTF walkthroughs for training, reference, and reflection.*
-- 📖 [LUNA](https://github.com/0xf0xy/LUNA)
-   > *A wordlist generator for bruteforce attacks against wireless networks, PIN passwords and user passwords.*
-- 🦑 [Kraken](https://github.com/0xf0xy/Kraken)
-   > *A tool to exploit the Key Reinstallation in the 4-Way Handshake on WPA2 networks*
+- 🦊 [LUNA](https://github.com/0xf0xy/LUNA)  
+  *A smart wordlist generator for brute-force attacks against wireless networks, PINs and users.*
+
+- 🧠 [Write-ups](https://github.com/0xf0xy/write-ups)  
+  ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)  
+  *CTF walkthroughs and notes — because learning is remembering where you failed.*
+
+- 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
+  *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.*
+
+- 🌹 [Poems](https://github.com/0xf0xy/Poems)  
+  *Poetry from the mind of a fox — echoes from the quiet moments.*
+
 - More coming soon...
 
 <br>
 
 ---
-<p align="center"><em>“No matter where you are, there’s always a way out."</em></p>
+
+<p align="center"><em>“No matter where you are, there’s always a way out.”</em></p>
