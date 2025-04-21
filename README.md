@@ -21,9 +21,11 @@
 <br>
 
 ## > Projects
-- 🧩 [Write-ups](https://github.com/my-username/write-ups)
+- 🧩 [Write-ups](https://github.com/0xf0xy/write-ups)
    > ![markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)  
    > *A growing archive of CTF walkthroughs for training, reference, and reflection.*
+- 📖 [PRJKTX](https://github.com/0xf0xy/x)
+   > *A wordlist generator for bruteforce attacks against wireless networks, user passwords, directory, and*
 
 - More coming soon...
 
