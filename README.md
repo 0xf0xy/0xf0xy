@@ -26,7 +26,6 @@
 >
 > I learn by breaking.  
 > I grow by solving.  
-> I move like a fox — always quiet, never lost.
 
 <br>
 
