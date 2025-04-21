@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Offensive%20Security-E4080A?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20User-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20Dev-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offensive-Security-E4080A?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-User-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Dev-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <br>
@@ -40,8 +40,9 @@
 - 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
   *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.*
 
-- 🌹 [Poems](https://github.com/0xf0xy/Poems)  
-  *Poetry from the mind of a fox — echoes from the quiet moments.*
+- 🌹 [Poems](https://github.com/0xf0xy/Poems)
+  ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)
+  *Poetry from my mind — echoes from the quiet moments.*
 
 - More coming soon...
 
