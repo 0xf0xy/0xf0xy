@@ -21,12 +21,15 @@
 <br>
 
 ## > Projects
+- 🌹 [Poems](https://github.com/0xf0xy/Poems
+   > *Just some poems that I wrote to pass the time. A hobbie besides hacking.*
 - 🧩 [Write-ups](https://github.com/0xf0xy/write-ups)
    > ![markdown](https://img.shields.io/badge/Markdown-black?style=flat&logo=markdown)  
    > *A growing archive of CTF walkthroughs for training, reference, and reflection.*
 - 📖 [PRJKT LUNA](https://github.com/0xf0xy/LUNA)
    > *A wordlist generator for bruteforce attacks against wireless networks, PIN passwords and user passwords.*
-
+- 🦑 [Kraken](https://github.com/0xf0xy/Kraken)
+   > *A tool to exploit the Key Reinstallation in the 4-Way Handshake on WPA2 networks*
 - More coming soon...
 
 <br>
