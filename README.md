@@ -8,7 +8,6 @@
 
 <br>
 
-<h1 align="center"><code>0xf0xy</code></h1>
 <p align="center"><em>Fox in the shadows. Curious mind. Silent steps.</em></p>
 
 ---
