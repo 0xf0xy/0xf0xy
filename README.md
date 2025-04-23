@@ -29,7 +29,7 @@
 <br>
 
 ## > Projects
-- 🌙 [LUNA](https://github.com/0xf0xy/LUNA)  
+- 🍃 [Wind](https://github.com/0xf0xy/Wind)  
   > ![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)  
   > *Wordlist generator based on common password patterns.*
 
