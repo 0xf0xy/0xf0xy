@@ -31,16 +31,20 @@
 ## > Projects
 - 🌙 [LUNA](https://github.com/0xf0xy/LUNA)  
   > ![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)  
-  > *A smart wordlist generator for brute-force attacks.*
+  > *Wordlist generator based on common password patterns.*
+
+<!-- - 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
+  > *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.* -->
+  
+<!-- - [Playground](https://github.com/0xf0xy/Playground)
+  >
+  > -->
 
 - 🧠 [Write-ups](https://github.com/0xf0xy/write-ups)  
   > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)    
-  > *CTF walkthroughs and notes — because learning is remembering where you failed.*
+  > *Write-ups for TryHackMe CTF challenges I've completed.*
 
-<!-- - 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
-  > *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.*
-
-- 🌹 [Poems](https://github.com/0xf0xy/Poems)  
+<!-- - 🌹 [Poems](https://github.com/0xf0xy/Poems)  
   > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)  
   > *Poetry from my mind — echoes from the quiet moments.* -->
 
