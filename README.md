@@ -42,7 +42,7 @@
 
 - 🎮 [Write-ups](https://github.com/0xf0xy/write-ups)  
   > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)    
-  > *Write-ups for TryHackMe CTF challenges I've completed.*
+  > *Write-ups of TryHackMe CTF challenges I've completed.*
 
 <!-- - 🌹 [Poems](https://github.com/0xf0xy/Poems)  
   > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)  
