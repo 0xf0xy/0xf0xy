@@ -30,7 +30,7 @@
 <br>
 
 ## > Projects
-- 🦊 [LUNA](https://github.com/0xf0xy/LUNA)  
+- 🌙 [LUNA](https://github.com/0xf0xy/LUNA)  
   > ![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)  
   > *A smart wordlist generator for brute-force attacks against wireless networks, PINs and users.*
 
@@ -38,17 +38,16 @@
   > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)    
   > *CTF walkthroughs and notes — because learning is remembering where you failed.*
 
-- 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
+<!-- - 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
   > *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.*
 
 - 🌹 [Poems](https://github.com/0xf0xy/Poems)  
   > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)  
-  > *Poetry from my mind — echoes from the quiet moments.*
+  > *Poetry from my mind — echoes from the quiet moments.* -->
 
 - More coming soon...
 
 <br>
 
 ---
-
 <p align="center"><em>“No matter where you are, there’s always a way out.”</em></p>
