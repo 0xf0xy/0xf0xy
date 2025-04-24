@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Offensive-Security-E4080A?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-User-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Dev-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-User-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Dev-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <br>
