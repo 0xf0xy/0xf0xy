@@ -3,9 +3,9 @@
 <p align="center"><em>"Always quiet, never lost.”</em></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Offensive-Security-E4080A?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Offensive-Security-E4080A?style=flat-square&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-User-black?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Dev-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Dev-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 <br>
