@@ -28,7 +28,7 @@
 
 <br>
 
-## > Projects
+## > Repos
 - 🍃 [Wind](https://github.com/0xf0xy/Wind)  
   > ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
   > *Wordlist generator based on common password patterns.*
