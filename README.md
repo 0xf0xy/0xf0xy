@@ -37,7 +37,7 @@
   > *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.* -->
   
 - 🛝 [Playground](https://github.com/0xf0xy/Playground)
-  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![Bash]()
+  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![Bash]()  
   > *A sandbox of scripts, code experiments, and spontaneous ideas.*   
 
 - 🎮 [Write-ups](https://github.com/0xf0xy/write-ups)  
