@@ -30,15 +30,15 @@
 
 ## > Projects
 - 🍃 [Wind](https://github.com/0xf0xy/Wind)  
-  > ![python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)  
+  > ![python](https://img.shields.io/badge/ㅤ-Python-3776AB?style=flat&logo=python)  
   > *Wordlist generator based on common password patterns.*
 
 <!-- - 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
   > *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.* -->
   
-<!-- - [Playground](https://github.com/0xf0xy/Playground)
-  >
-  > -->
+- 🛝 [Playground](https://github.com/0xf0xy/Playground)
+  > ![Python]()![Bash]()
+  > *A sandbox of scripts, code experiments, and spontaneous ideas.*   
 
 - 🎮 [Write-ups](https://github.com/0xf0xy/write-ups)  
   > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)    
