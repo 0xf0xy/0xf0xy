@@ -30,22 +30,22 @@
 
 ## > Projects
 - 🍃 [Wind](https://github.com/0xf0xy/Wind)  
-  > ![python](https://img.shields.io/badge/  -Python-3776AB?style=flat&logo=python)  
+  > ![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
   > *Wordlist generator based on common password patterns.*
 
 <!-- - 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
   > *An experimental exploit for KRACK (Key Reinstallation Attack) on WPA2.* -->
   
 - 🛝 [Playground](https://github.com/0xf0xy/Playground)
-  > ![Python]()![Bash]()
+  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)![Bash]()
   > *A sandbox of scripts, code experiments, and spontaneous ideas.*   
 
 - 🎮 [Write-ups](https://github.com/0xf0xy/write-ups)  
-  > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)    
+  > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)    
   > *Write-ups of TryHackMe CTF challenges I've completed.*
 
 <!-- - 🌹 [Poems](https://github.com/0xf0xy/Poems)  
-  > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)  
+  > ![markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)  
   > *Poetry from my mind — echoes from the quiet moments.* -->
 
 - More coming soon...
