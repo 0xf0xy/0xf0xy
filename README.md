@@ -30,7 +30,7 @@
 
 ## > Projects
 - 🍃 [Wind](https://github.com/0xf0xy/Wind)  
-  > ![python](https://img.shields.io/badge/ㅤ-Python-3776AB?style=flat&logo=python)  
+  > ![python](https://img.shields.io/badge/ -Python-3776AB?style=flat&logo=python)  
   > *Wordlist generator based on common password patterns.*
 
 <!-- - 🦑 [Kraken](https://github.com/0xf0xy/Kraken)  
