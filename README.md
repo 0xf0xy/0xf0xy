@@ -31,7 +31,7 @@
 ## > Main
   
 - 🛝 [Playground](https://github.com/0xf0xy/Playground)
-  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNUbash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
+  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNUbash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)  
   > *A sandbox of scripts, code experiments, spontaneous ideas and some notes.*   
 
 <br>
