@@ -1,11 +1,12 @@
 ![0xf0xy](src/Banner.png)
 
-<p align="center"><em>"Always quiet, never lost.”</em></p>
+<p align="center"><em>"Calm in my path, clear in my mind.”</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Offensive-Security-E4080A?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-User-black?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Dev-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Enthusiast-4EAA25?style=for-the-badge&logo=GNUbash&logoColor=white" />
 </p>
 
 <br>
@@ -23,8 +24,8 @@
 > a challenge to silence the chaos within.  
 > But now, it’s a passion that keeps me going.  
 >
-> I learn by breaking.  
-> I grow by solving.  
+> I break things to understand them,  
+> I solve problems to grow.  
 
 <br>
 
