@@ -12,16 +12,18 @@
 <br>
 
 ---
-## ./About Me
+## ./About_Me
 > Hello there!  
 >   
 > You've stumbled upon my corner of GitHub. That tells me you're curious, and I like that.  
 >  
-> I'm not here for fame or glory. I'm here because I love this world.  
->   
-> What started as a way to disconnect from reality — hacking — has become a passion that fuels me every day.  
->   
-> I break things to understand them. I solve problems to grow.  
+> I’m **0xf0xy**, a 21-year-old passionate about hacking, programming, and everything in between.  
+>  
+> I’m not here for fame or glory. I’m here because I **love** this world.  
+>  
+> What started as a way to disconnect from reality became the fire that drives me every single day.  
+>
+> *I break things to understand them. I solve problems to grow.*  
 
 <br>
 
@@ -32,9 +34,19 @@
 
 <br>
 
-## > Stats
+<!--
+## ./Stats
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xf0xy&layout=compact&theme=github_dark)
+
+<br>
+
+## ./Contact_Me  
+
+[![Discord](https://img.shields.io/badge/Discord-0xf0xy-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
+<br>
+-->
 
 ---
 <p align="center"><em>No matter where you are, there’s always a way out.</em></p>
