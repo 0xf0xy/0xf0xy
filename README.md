@@ -12,7 +12,7 @@
 <br>
 
 ---
-### ./About_Me
+## ./About_Me
 > Hello there!  
 >   
 > You've stumbled upon my corner of GitHub. That tells me you're curious, and I like that.  
@@ -27,10 +27,10 @@
 
 <br>
 
-### ./Repos
+## ./Repos
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark&repo=Playground)](https://github.com/0xf0xy/Playground)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark&repo=Write-ups)](https://github.com/0xf0xy/Write-ups)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark_dimmed&repo=Write-ups)](https://github.com/0xf0xy/Write-ups)
 
 <br>
 
