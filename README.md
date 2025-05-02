@@ -22,8 +22,6 @@
 > I’m not here for fame or glory. I’m here because I **love** this world.  
 >  
 > What started as a way to disconnect from reality became the fire that drives me every single day.  
->
-> *I break things to understand them. I solve problems to grow.*  
 
 <br>
 
