@@ -1,13 +1,13 @@
 ![0xf0xy](src/Banner.png)
 
-<p align="center"><em>"Calm in my path, clear in my mind.”</em></p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Offensive-Security-E4080A?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-User-black?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Dev-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-Enthusiast-4EAA25?style=for-the-badge&logo=GNUbash&logoColor=white" />
 </p>
+
+<p align="center"><em>"Calm in my path, clear in my mind.”</em></p>
 
 <br>
 
@@ -30,18 +30,13 @@
 <br>
 
 ## > Main
-  
-- 🛝 [Playground](https://github.com/0xf0xy/Playground)
-  > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNUbash&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)  
-  > *A sandbox of scripts, code experiments, spontaneous ideas and some notes.*  
-- 🎮 [Write-ups](https://github.com/0xf0xy/Write-ups)
-  > ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)  
-  > *Write-ups of TryHackMe CTF challenges I've completed.*  
-- 📚 [Projects](https://github.com/0xf0xy/Projects)  
-  > ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)  
-  >  *My projects.*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark&repo=Playground)](https://github.com/0xf0xy/Playground)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark&repo=Write-ups)](https://github.com/0xf0xy/Write-ups)
 
 <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xf0xy&layout=compact&theme=github_dark)
 
 ---
 <p align="center"><em>No matter where you are, there’s always a way out.</em></p>
