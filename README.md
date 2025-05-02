@@ -17,7 +17,7 @@
 >   
 > You've stumbled upon my corner of GitHub. That tells me you're curious, and I like that.  
 >  
-> I’m **0xf0xy**, a 21-year-old passionate about hacking, programming, and everything in between.  
+> I’m **0xf0xy**, a 20-year-old passionate about hacking, programming, and everything in between.  
 >  
 > I’m not here for fame or glory. I’m here because I **love** this world.  
 >  
