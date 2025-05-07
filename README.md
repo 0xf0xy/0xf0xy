@@ -1,4 +1,4 @@
-![0xf0xy](src/banner_dark.png)  
+![0xf0xy](src/my_banner.png)  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Offensive-Security-E4080A?style=flat&logo=kali-linux&logoColor=white" />
