@@ -7,41 +7,7 @@
 ---
 ## ./whoami
 
-> You didn’t stumble here.  
-> Curiosity brought you. That already says enough.  
->  
-> I go by **0xf0xy** — 20 years old. That's all you'll get.  
-> I don’t chase lights.  
-> I build shadows — to be *felt*, not seen.  
-
-<br>
-
-## ./tools
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark_dimmed&repo=Wind)](https://github.com/0xf0xy/Wind)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark_dimmed&repo=Lynx)](https://github.com/0xf0xy/Lynx)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark_dimmed&repo=Arkane)](https://github.com/0xf0xy/Arkane)
-<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark_dimmed&repo=Blackout)](https://github.com/0xf0xy/Blackout) -->
-
-<br>
-
-## ./repos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark_dimmed&repo=Playground)](https://github.com/0xf0xy/Playground)  
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark_dimmed&repo=Write-ups)](https://github.com/0xf0xy/Write-ups)
-<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark_dimmed&repo=HeartSploit)](https://github.com/0xf0xy/HeartSploit) -->
-
-<br>
-
-## ./stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xf0xy&layout=compact&theme=github_dark_dimmed">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xf0xy&show_icons=true&theme=github_dark_dimmed">
-</p>
+> *I  can be a little bit of everything.*
 
 <br>
 
