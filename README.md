@@ -13,16 +13,8 @@
 
 ## ./repos
 
-[![Repo Card](https://github-readme
--stats.vercel.app/api/pin/?username=
-0xf0xy&theme=github_dark_dimmed&repo=
-Playground)](https://github.com/0xf0xy
-/Playground)  
-[![Repo Card](https://github-readme
--stats.vercel.app/api/pin/?username=
-Oxf0xy&theme=github_dark_dimmed&repo=
-Write-ups)](https://github.com/0xf0xy
-/Write-ups)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&theme=github_dark_dimmed&repo=Playground)](https://github.com/0xf0xy/Playground)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Oxf0xy&theme=github_dark_dimmed&repo=Write-ups)](https://github.com/0xf0xy/Write-ups)
 
 <br>
 
