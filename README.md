@@ -1,7 +1,5 @@
 ![0xf0xy](src/my_banner.png)  
 
-<br>
-
 ---
 ## ./whoami
 
