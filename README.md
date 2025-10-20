@@ -24,6 +24,11 @@ I'm a passionate Offensive Security student and Python developer.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&repo=Wind&theme=github_dark_dimmed" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/0xf0xy/Kraken">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&repo=Kraken&theme=github_dark_dimmed" />
+      </a>
+    </td>
   </tr>
 </table>
 
