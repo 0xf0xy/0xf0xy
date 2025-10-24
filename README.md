@@ -1,4 +1,4 @@
-<h1 align="center">0xf0xy 
+<h1 align="center">0xf0xy 🦊</h1>
 
 ## 🧠 About Me
 
