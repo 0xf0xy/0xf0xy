@@ -1,14 +1,5 @@
-<p align="center" style="font-size:55px; font-family:'Courier New', monospace; font-weight:bold;">
-💜 0xf0xy 💜
-</p>
+<h1 align="center">0xf0xy 
 
-<p align="center" style="font-size:25px; color:gray;">
-Offensive Security Student & Python Developer
-</p>
-
-<hr>
-
----
 ## 🧠 About Me
 
 I'm a passionate Offensive Security student and Python developer.
