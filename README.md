@@ -1,6 +1,12 @@
-![0xf0xy](src/my_banner.png)  
+<p align="center" style="font-size:55px; font-family:'Courier New', monospace; font-weight:bold;">
+💜 0xf0xy 💜
+</p>
 
-<h1 align="center">0xf0xy 🦊</h1>
+<p align="center" style="font-size:25px; color:gray;">
+Offensive Security Student & Python Developer
+</p>
+
+<hr>
 
 ---
 ## 🧠 About Me
