@@ -1,12 +1,8 @@
 <h1 align="center">0xf0xy 💀</h1>
 
 ## ./whoami
-
-I'm a passionate Offensive Security student and Python developer.
-
-- 👻 Nick: **0xf0xy**
-- 🔬 Focus: Red teaming, Ethical Hacking and Learning  
-- 🎯 Arsenal: Python, Linux, Faith, and a touch of madness
+*0xf0xy* — Red teamer in training.  
+Python + Linux. Faith, chaos, repeat.
   
 <br>
 
@@ -31,13 +27,11 @@ I'm a passionate Offensive Security student and Python developer.
   </tr>
 </table>
 
-> *⚠️ Disclaimer:* All scripts and tools are for educational and research purposes only.
-They are still in development and may contain bugs, errors, or vulnerabilities.
-The author is not responsible for any misuse or illegal activities performed with these scripts.  
+> *⚠️ Disclaimer:* All scripts and tools are for educational and research purposes only. They are still in development and may contain bugs, errors, or vulnerabilities.
 
 <br>
 
-I also contribute to **CTF write-ups**, experimental scripts and occasional madness in the [`Playground`](https://github.com/0xf0xy/Playground).
+I also write some experimental scripts, and occasional madness in the [`Playground`](https://github.com/0xf0xy/Playground).
 
 <br>
 
@@ -45,7 +39,7 @@ I also contribute to **CTF write-ups**, experimental scripts and occasional madn
 
 If you like my work or want to support future tool development, consider buying me a coffee:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/username)
 
 <br> -->
 
