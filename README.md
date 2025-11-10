@@ -1,7 +1,7 @@
 <h1 align="center">0xf0xy 💀</h1>
 
 ## ./whoami
-*0xf0xy* — Red teamer in training.  
+Red teamer in training.  
 Python + Linux. Faith, chaos, repeat.
   
 <br>
@@ -27,7 +27,7 @@ Python + Linux. Faith, chaos, repeat.
   </tr>
 </table>
 
-> *⚠️ Disclaimer:* All scripts and tools are for educational and research purposes only. They are still in development and may contain bugs, errors, or vulnerabilities.
+> **⚠️ Disclaimer:** All scripts and tools are for educational and research purposes only. They are still in development and may contain bugs, errors, or vulnerabilities.
 
 <br>
 
