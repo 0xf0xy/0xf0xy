@@ -1,16 +1,16 @@
-<h1 align="center">0xf0xy 🦊</h1>
+<h1 align="center">0xf0xy 💀</h1>
 
-## 🧠 About Me
+## ./whoami
 
 I'm a passionate Offensive Security student and Python developer.
 
 - 👻 Nick: **0xf0xy**
 - 🔬 Focus: Red teaming, Ethical Hacking and Learning  
-- 🎯 Arsenal: Python, Linux, Faith, and a touch of madness 🦊  
+- 🎯 Arsenal: Python, Linux, Faith, and a touch of madness
   
 <br>
 
-## 📁 Projects
+## ./PRJKTS
 <table>
   <tr>
     <td align="center">
@@ -30,6 +30,10 @@ I'm a passionate Offensive Security student and Python developer.
     </td>
   </tr>
 </table>
+
+> *⚠️ Disclaimer:* All scripts and tools are for educational and research purposes only.
+They are still in development and may contain bugs, errors, or vulnerabilities.
+The author is not responsible for any misuse or illegal activities performed with these scripts.  
 
 <br>
 
