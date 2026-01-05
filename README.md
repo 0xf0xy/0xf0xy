@@ -2,7 +2,7 @@
 
 ## ./whoami
 Red teamer in training.  
-Python + Linux. Faith, chaos, repeat.
+Python + Linux. Faith, Coffee, Repeat.
   
 <br>
 
@@ -27,7 +27,8 @@ Python + Linux. Faith, chaos, repeat.
   </tr>
 </table>
 
-> **⚠️ Disclaimer:** All scripts and tools are for educational and research purposes only. They are still in development and may contain bugs, errors, or vulnerabilities.
+> **Disclaimer:** All scripts and tools are for educational and research purposes only. They are still in development and may contain bugs, errors, or vulnerabilities.  
+> Any misuse is your responsibility.
 
 <br>
 
