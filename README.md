@@ -7,25 +7,11 @@ Python + Linux. Faith, Coffee, Repeat.
 <br>
 
 ## ./PRJKTS
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/0xf0xy/Lynx">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&repo=Lynx&theme=github_dark_dimmed" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/0xf0xy/Wind">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&repo=Wind&theme=github_dark_dimmed" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/0xf0xy/Kraken">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=0xf0xy&repo=Kraken&theme=github_dark_dimmed" />
-      </a>
-    </td>
-  </tr>
-</table>
+All of these projects were based on ideas and work I did during my time as a teacher.
+- [`Lynx`](https://github.com/0xf0xy/Lynx)
+- [`Wind`](https://github.com/0xf0xy/Wind)
+- [`Kraken`](https://github.com/0xf0xy/Kraken)
+- [`CipherMind`](https://github.com/0xf0xy/CipherMind)
 
 > **Disclaimer:** All scripts and tools are for educational and research purposes only. They are still in development and may contain bugs, errors, or vulnerabilities.  
 > Any misuse is your responsibility.
