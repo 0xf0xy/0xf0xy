@@ -7,7 +7,7 @@ Python + Linux. Faith, Coffee, Repeat.
 <br>
 
 ## ./PRJKTS
-All of these projects were based on ideas and work I did during my time as a teacher.
+All of these projects originated from knowledge gained during my university studies and ideas I developed through academic projects and independent exploration.
 - [`Lynx`](https://github.com/0xf0xy/Lynx)
 - [`Wind`](https://github.com/0xf0xy/Wind)
 - [`Kraken`](https://github.com/0xf0xy/Kraken)
