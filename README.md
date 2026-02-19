@@ -1,7 +1,7 @@
 <h1 align="center">0xf0xy 💀</h1>
 
 ## ./whoami
-Red teamer in training.  
+Red teamer and AI engineer in training.  
 Python + Linux. Faith, Coffee, Repeat.
   
 <br>
