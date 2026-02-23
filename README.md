@@ -1,5 +1,7 @@
 <h1 align="center">0xf0xy 💀</h1>
 
+<br>
+
 ## ./whoami
 Red teamer and AI engineer in training.  
 Python + Linux. Faith, Coffee, Repeat.
@@ -23,7 +25,7 @@ I also write some experimental scripts, and occasional madness in the [`Playgrou
 
 <br>
 
-<!-- ## ☕ Support My Work
+<!-- ## Support My Work
 
 If you like my work or want to support future tool development, consider buying me a coffee:
 
@@ -32,4 +34,5 @@ If you like my work or want to support future tool development, consider buying 
 <br> -->
 
 ---
+
 <p align="center"><em>Some codes are meant to break systems. Others, expectations.</em></p> 
