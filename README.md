@@ -11,6 +11,7 @@ All of these projects originated from knowledge gained during my university stud
 - [`Lynx`](https://github.com/0xf0xy/Lynx)
 - [`Wind`](https://github.com/0xf0xy/Wind)
 - [`Kraken`](https://github.com/0xf0xy/Kraken)
+- [`Blackout`](https://github.com/0xf0xy/Blackout)
 - [`Raven`](https://github.com/0xf0xy/Raven)
 
 > **Disclaimer:** All scripts and tools are for educational and research purposes only. They are still in development and may contain bugs, errors, or vulnerabilities.  
