@@ -21,7 +21,7 @@ Most of these projects originated from university studies, personal research, an
 
 - `Arkane` *(Private)*
 - [`Blackout`](https://github.com/0xf0xy/Blackout) — raw packet network flooder
-- `Daemon` *(Private)*
+- [`Daemon`](https://github.com/0xf0xy/Daemon)
 - [`Kraken`](https://github.com/0xf0xy/Kraken) — WPA/WPA2 audit toolkit
 - [`Lynx`](https://github.com/0xf0xy/Lynx) — stealth TCP port scanner
 - [`Raven`](https://github.com/0xf0xy/Raven) — command synthesis engine
